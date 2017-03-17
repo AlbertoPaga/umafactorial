@@ -1,0 +1,28 @@
+
+
+			-LISTA DE COMANDOS DE GIT-
+
+
+
+
+git clone + (url) : Sirve para clonar un repositorio a tu maquina. (Item 1)
+
+git add + (fichero) : sirve para hacer un commit de un archivo. (Item 3)
+
+git commit -m + (comentario) : sirve para hacer un comentario o aclaracion sobre el commit añadido. (Item 3)
+
+git push origin + (rama) : sirve para enviar los cambios al repositorio de GitHub. (Item 5)
+
+git checkout -b + (nueva rama) : sirve como atajo para ademas de crear una nueva rama, cambiar a ella. )Item 5)
+
+git checkout + (rama) : sirve para cambiar de rama. (Item 8)
+
+git merge + (rama) : sirve para mezclar en contenido de dos ramas (normalmente la rama master y otra). (Item 12)
+
+git stash : sirve para guardar el estado del archivo cuando este aun no esta listo para un commit pero necesita ser guardado. (Item 15)
+
+git stash pop : sirve para recuperar el estado del archivo cuando a este se le realizo un stash. (Item 16)
+
+gitk --all : sirve para observar la historia del repositorio mediante la interfaz grafica (Item 22)
+
+git push --all origin : sirve para sincronizar todas las ramas de un repositorio (Item 22)
